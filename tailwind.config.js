@@ -13,7 +13,7 @@ export default {
       colors: {
         'brand-blue': '#1e3a8a',
         'brand-red': '#dc2626',
-        'brand-orange': '#f59e0b',
+        'brand-orange': '#e0b110',
         'brand-navy': '#1e293b',
         'brand-light-blue': '#3b82f6'
       },
